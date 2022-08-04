@@ -11,4 +11,4 @@ jobs:
       - name: java compile
         run: javac HelloWorld.java
       - name: run the java app
-        run: java HelloWorld.
+        run: java HelloWorld
